@@ -1,0 +1,11 @@
+,sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p
+0,1,M,75.5,Central,80.2,Others,Science,70.0,Science,Yes,65.2,Marketing,68.5
+1,2,F,82.0,Others,78.5,Central,Commerce,75.8,Commerce,No,70.7,Finance,72.3
+2,3,M,68.3,Central,72.8,Others,Arts,68.9,Science,Yes,62.0,Marketing,66.9
+3,4,F,79.8,Others,83.0,Central,Science,72.3,Commerce,No,68.5,Finance,70.2
+4,5,M,71.2,Central,76.4,Others,Commerce,69.7,Science,Yes,64.8,Marketing,67.8
+5,6,F,85.0,Others,88.2,Central,Arts,76.5,Commerce,No,71.3,Finance,73.5
+6,7,M,76.7,Central,81.5,Others,Science,71.8,Science,Yes,66.9,Marketing,69.8
+7,8,F,78.4,Others,79.0,Central,Commerce,74.2,Commerce,No,69.1,Finance,71.0
+8,9,M,73.1,Central,75.7,Others,Arts,68.0,Science,Yes,63.7,Marketing,65.4
+9,10,F,80.5,Others,82.8,Central,Science,73.9,Commerce,No,70.2,Finance,72.7
